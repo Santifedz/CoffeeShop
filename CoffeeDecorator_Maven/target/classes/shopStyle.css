@@ -1,0 +1,24 @@
+.master {
+   -fx-font-family: "sans-serif";
+   -fx-font-color: #200b2e;
+   -fx-background-color: #c690f5;
+}
+
+.radio-button .dot {
+    -fx-selected-color: purple;
+    -fx-background-radius: 15px;
+    -fx-padding: 8px;
+}
+
+.B1 {
+    -fx-background-color: #5668f5;
+    -fx-font-color: white;
+}
+
+.B2 {
+    -fx-background-color: #5668f5;
+    -fx-font-color: white;
+}
+
+
+
